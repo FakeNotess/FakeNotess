@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+Hello, I am Gautham. I have been coding for 5 years, it is a passion of mine and what I would like to go to school for. I love doing fun projects like games but I always like to try something new.
+
 **FakeNotess/FakeNotess** is a ✨ _special_ ✨ repository because its mine
 #
 - 🔭 I’m currently: In between projects
