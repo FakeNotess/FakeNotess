@@ -3,7 +3,6 @@
 
 Hello, I am Gautham. I have been coding for 5 years, it is a passion of mine and what Im going to school for. I love doing fun projects like games but I always like to try to make something new.
 
-**FakeNotess/FakeNotess** is a ✨ _special_ ✨ repository because its mine
 #
 -  I’m currently: In between projects
 -  I’m currently Learning: C++
