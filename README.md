@@ -1,6 +1,6 @@
-# Hi, I'm Gautham
+# Hello, I'm Gautham
  
-🎓 Data Science Student at the University of Illinois Chicago
+Data Science Student at the University of Illinois Chicago
 |  Networking Enthusiast |  Developer | Data Professional
  
 ##  About Me
